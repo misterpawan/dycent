@@ -1,4 +1,4 @@
-# dycent
+# DYCENT: Angle based DY learning rate for gradient desCENT
 
 If you find this useful, then cite this as follows:
 
